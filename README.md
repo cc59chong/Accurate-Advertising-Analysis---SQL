@@ -5,3 +5,4 @@ Based on the CTR as the metric, Analyzed E-commerce advertising data from channe
 >> * ad_feature.csv | user_profile.csv | raw_sample.csv
 > * Data Storage & Analysis Tools
 >> * MySQL | Excel | XMind
+![image](https://github.com/MengyaCao/Accurate-Advertising-Analysis---SQL/blob/main/ER%20Diagram.JPG)
