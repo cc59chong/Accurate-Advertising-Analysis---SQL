@@ -1,1 +1,1 @@
-# Advertising-Analysis-How-to-Achieve-Accurate-Advertising----SQL
+# Advertising Analysis: How to Achieve Accurate Advertising?
