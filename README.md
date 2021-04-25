@@ -14,6 +14,7 @@ Using CTR as the metric, analyzed E-commerce advertising data from channels, tim
 >> * CTR analysis of each time per day
 ![image](https://github.com/MengyaCao/Accurate-Advertising-Analysis---SQL/blob/main/CTR%20analysis%20of%20each%20time%20per%20day.JPG)
 >> * CTR analysis for each day of the week
+![image](https://github.com/MengyaCao/Accurate-Advertising-Analysis---SQL/blob/main/CTR%20analysis%20for%20each%20day%20of%20the%20week.JPG)
 >> *  CTR analysis for each time of every day
 > * Analyze the CTR of crowed  characteristics
 >> * CTR analysis of people of different ages
